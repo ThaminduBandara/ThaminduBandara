@@ -1,7 +1,7 @@
 Hi 👋 I'm Thamindu Bandara
 
 Computer Engineering Undergraduate at University of Ruhuna
-Full-stack Developer | AI Enthusiast | IoT Builder
+Full-stack Developer | AI/ML Enthusiast | IoT Builder
 
 ---
 
@@ -14,7 +14,7 @@ I am passionate about building real-world software systems across full-stack dev
 🛠 Tech Stack
 
 💻 Languages
-Java • Python • JavaScript • TypeScript • C • C++
+Java • Python • JavaScript • C# • C • C++
 
 🌐 Web
 React • Node.js • Express • Spring Boot
@@ -32,7 +32,7 @@ MySQL • MongoDB • MariaDB • SQLite
 
 🔧 Projects
 
-🎵 SoundShare – Music Sharing Application
+🎵 SoundShare – Social Media Application for Music Sharing
 
 A full-stack music sharing platform where users can upload and stream audio content.
 
@@ -47,18 +47,32 @@ React • Node.js • MongoDB
 
 ---
 
-🔐 Smart Door Lock System
+🏠 Bodimkarayo.lk – Roommate & Property Finder  
 
-A full-stack IoT-based access control system with real-time door management.
+A full-stack web platform for finding rental properties and roommates, with features for listings, user profiles, and reviews.
+
+🔹 Features:
+- Property listing and search  
+- Roommate discovery and matching  
+- User authentication and profile management  
+- Reviews and ratings system  
+
+🔹 Tech:
+React • Spring Boot • SQL • Tailwind CSS
+
+---
+
+🎙️ Target Speaker Voice Filtering
+
+An AI system that isolates a specific speaker’s voice from noisy and multi speacker environment.
 
 🔹 Features:
 
-* NFC-based authentication
-* Admin dashboard for users and permissions
-* Real-time lock/unlock control
+* Speaker embedding and matching
+* Speech separation using deep learning
 
 🔹 Tech:
-React • Flask • MySQL • ESP32 • Docker
+Python • PyTorch • SpeechBrain • FastAPI
 
 ---
 
@@ -69,7 +83,7 @@ A full-stack system with DevOps pipeline for recommending internet plans.
 🔹 Features:
 
 * Role-based dashboards
-* Package recommendation system
+* Internet Packages recommendation based on monthly usage
 * CI/CD and cloud deployment
 
 🔹 Tech:
@@ -79,7 +93,7 @@ React • Node.js • Docker • AWS • Jenkins • Terraform
 
 📊 Employee Promotion Scoring System
 
-A machine learning system that predicts employee promotion outcomes.
+A machine learning system that gives a score based on employee perfomance.
 
 🔹 Features:
 
@@ -92,23 +106,25 @@ Python • Scikit-learn • Pandas
 
 ---
 
-🎙️ Target Speaker Voice Filtering
+🔐 Smart Door Lock System
 
-An AI system that isolates a specific speaker’s voice from noisy audio.
+A full-stack IoT-based access control system with real-time door management.
 
 🔹 Features:
 
-* Speaker embedding and matching
-* Speech separation using deep learning
+* NFC-based authentication
+* Wifi Communication
+* Admin dashboard for users and permissions
+* Real-time lock/unlock control
 
 🔹 Tech:
-Python • PyTorch • SpeechBrain • FastAPI
+React • Flask • MySQL • ESP32 • Arduino • Docker
 
 ---
 
 🛒 Community Shopping App
 
-A full-stack mobile application for browsing and managing products with real-time updates.
+A full-stack mobile application that helps users choose the best electronic products by comparing price, warranty, and location using community-submitted data.
 
 🔹 Features:
 
@@ -153,9 +169,9 @@ Java • TCP Sockets • Multithreading
 
 📫 Contact
 
-Email: [your-email@gmail.com](mailto:your-email@gmail.com)
+Email: bandaradambewela1960@gmail.com
 GitHub: https://github.com/ThaminduBandara
-LinkedIn: (add your link)
+LinkedIn: https://www.linkedin.com/in/thamindu-bandara-dambewela-b13959335
 
 ---
 
