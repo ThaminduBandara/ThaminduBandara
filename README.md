@@ -33,7 +33,7 @@ MySQL • MongoDB • MariaDB • SQLite
 ## 🔧 Projects
 
 
-**📶 Internet Packages Recommendation System**
+### 📶 Internet Packages Recommendation System
 
 A full-stack system with DevOps pipeline for recommending internet plans.
 
