@@ -13,7 +13,7 @@ I am passionate about building real-world software systems across full-stack dev
 
 ## 🛠 Tech Stack
 
- 💻 **Languages**
+ **💻Languages**
 Java • Python • JavaScript • C# • C • C++
 
 ** 🌐 Web **
