@@ -32,6 +32,22 @@ MySQL • MongoDB • MariaDB • SQLite
 
 🔧 Projects
 
+
+📶 Internet Packages Recommendation System
+
+A full-stack system with DevOps pipeline for recommending internet plans.
+
+🔹 Features:
+
+* Role-based dashboards
+* Internet Packages recommendation based on monthly usage
+* CI/CD and cloud deployment
+
+🔹 Tech:
+React • Node.js • Docker • AWS • Jenkins • Terraform
+
+---
+
 🎵 SoundShare – Social Media Application for Music Sharing
 
 A full-stack music sharing platform where users can upload and stream audio content.
@@ -73,21 +89,6 @@ An AI system that isolates a specific speaker’s voice from noisy and multi spe
 
 🔹 Tech:
 Python • PyTorch • SpeechBrain • FastAPI
-
----
-
-📶 Internet Packages Recommendation System
-
-A full-stack system with DevOps pipeline for recommending internet plans.
-
-🔹 Features:
-
-* Role-based dashboards
-* Internet Packages recommendation based on monthly usage
-* CI/CD and cloud deployment
-
-🔹 Tech:
-React • Node.js • Docker • AWS • Jenkins • Terraform
 
 ---
 
