@@ -13,19 +13,19 @@ I am passionate about building real-world software systems across full-stack dev
 
 ## 🛠 Tech Stack
 
-** 💻 Languages
+** 💻 Languages **
 Java • Python • JavaScript • C# • C • C++
 
-** 🌐 Web
+** 🌐 Web **
 React • Node.js • Express • Spring Boot
 
-** ⚙️ DevOps
+** ⚙️ DevOps **
 Docker • Jenkins • Terraform • AWS
 
-** 🤖 AI / ML
+** 🤖 AI / ML **
 Scikit-learn • PyTorch • SpeechBrain
 
-** 🗄 Databases
+** 🗄 Databases **
 MySQL • MongoDB • MariaDB • SQLite
 
 ---
@@ -33,7 +33,7 @@ MySQL • MongoDB • MariaDB • SQLite
 ## 🔧 Projects
 
 
-** 📶 Internet Packages Recommendation System
+** 📶 Internet Packages Recommendation System **
 
 A full-stack system with DevOps pipeline for recommending internet plans.
 
@@ -48,7 +48,7 @@ React • Node.js • Docker • AWS • Jenkins • Terraform
 
 ---
 
-** 🎵 SoundShare – Social Media Application for Music Sharing
+** 🎵 SoundShare – Social Media Application for Music Sharing **
 
 A full-stack music sharing platform where users can upload and stream audio content.
 
@@ -63,7 +63,7 @@ React • Node.js • MongoDB
 
 ---
 
-** 🏠 Bodimkarayo.lk – Roommate & Property Finder  
+** 🏠 Bodimkarayo.lk – Roommate & Property Finder **
 
 A full-stack web platform for finding rental properties and roommates, with features for listings, user profiles, and reviews.
 
@@ -78,7 +78,7 @@ React • Spring Boot • SQL • Tailwind CSS
 
 ---
 
-** 🎙️ Target Speaker Voice Filtering
+** 🎙️ Target Speaker Voice Filtering **
 
 An AI system that isolates a specific speaker’s voice from noisy and multi speacker environment.
 
@@ -92,7 +92,7 @@ Python • PyTorch • SpeechBrain • FastAPI
 
 ---
 
-** 📊 Employee Promotion Scoring System
+** 📊 Employee Promotion Scoring System **
 
 A machine learning system that gives a score based on employee perfomance.
 
@@ -107,7 +107,7 @@ Python • Scikit-learn • Pandas
 
 ---
 
-** 🔐 Smart Door Lock System
+** 🔐 Smart Door Lock System **
 
 A full-stack IoT-based access control system with real-time door management.
 
@@ -123,7 +123,7 @@ React • Flask • MySQL • ESP32 • Arduino • Docker
 
 ---
 
-** 🛒 Community Shopping App
+** 🛒 Community Shopping App **
 
 A full-stack mobile application that helps users choose the best electronic products by comparing price, warranty, and location using community-submitted data.
 
@@ -138,7 +138,7 @@ Flutter • Node.js • MongoDB
 
 ---
 
-** 🐾 Pet Care System
+** 🐾 Pet Care System **
 
 A Spring Boot backend system for managing pet-related data with strong testing practices.
 
@@ -153,7 +153,7 @@ Java • Spring Boot • JPA • Maven
 
 ---
 
-** 🎮 Network Battleship Game
+** 🎮 Network Battleship Game **
 
 A multiplayer game built using Java with TCP socket communication.
 
@@ -168,7 +168,7 @@ Java • TCP Sockets • Multithreading
 
 ---
 
-** 📫 Contact
+** 📫 Contact **
 
 Email: bandaradambewela1960@gmail.com
 
