@@ -1,4 +1,4 @@
-Hi 👋 I'm Thamindu Bandara
+# Hi 👋 I'm Thamindu Bandara
 
 Computer Engineering Undergraduate at University of Ruhuna
 Full-stack Developer | AI/ML Enthusiast | IoT Builder
