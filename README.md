@@ -1,16 +1,162 @@
-## Hi there 👋
+Hi 👋 I'm Thamindu Bandara
 
-<!--
-**ThaminduBandara/ThaminduBandara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Engineering Undergraduate at University of Ruhuna
+Full-stack Developer | AI Enthusiast | IoT Builder
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 About Me
+
+I am passionate about building real-world software systems across full-stack development, AI/ML, DevOps, and IoT. I enjoy solving practical problems and developing scalable, intelligent applications.
+
+---
+
+🛠 Tech Stack
+
+💻 Languages
+Java • Python • JavaScript • TypeScript • C • C++
+
+🌐 Web
+React • Node.js • Express • Spring Boot
+
+⚙️ DevOps
+Docker • Jenkins • Terraform • AWS
+
+🤖 AI / ML
+Scikit-learn • PyTorch • SpeechBrain
+
+🗄 Databases
+MySQL • MongoDB • MariaDB • SQLite
+
+---
+
+🔧 Projects
+
+🎵 SoundShare – Music Sharing Application
+
+A full-stack music sharing platform where users can upload and stream audio content.
+
+🔹 Features:
+
+* User authentication and profiles
+* Upload and stream music
+* Create and manage posts
+
+🔹 Tech:
+React • Node.js • MongoDB
+
+---
+
+🔐 Smart Door Lock System
+
+A full-stack IoT-based access control system with real-time door management.
+
+🔹 Features:
+
+* NFC-based authentication
+* Admin dashboard for users and permissions
+* Real-time lock/unlock control
+
+🔹 Tech:
+React • Flask • MySQL • ESP32 • Docker
+
+---
+
+📶 Internet Packages Recommendation System
+
+A full-stack system with DevOps pipeline for recommending internet plans.
+
+🔹 Features:
+
+* Role-based dashboards
+* Package recommendation system
+* CI/CD and cloud deployment
+
+🔹 Tech:
+React • Node.js • Docker • AWS • Jenkins • Terraform
+
+---
+
+📊 Employee Promotion Scoring System
+
+A machine learning system that predicts employee promotion outcomes.
+
+🔹 Features:
+
+* Data preprocessing and model training
+* Model comparison (Random Forest & Logistic Regression)
+* Prediction via web interface
+
+🔹 Tech:
+Python • Scikit-learn • Pandas
+
+---
+
+🎙️ Target Speaker Voice Filtering
+
+An AI system that isolates a specific speaker’s voice from noisy audio.
+
+🔹 Features:
+
+* Speaker embedding and matching
+* Speech separation using deep learning
+
+🔹 Tech:
+Python • PyTorch • SpeechBrain • FastAPI
+
+---
+
+🛒 Community Shopping App
+
+A full-stack mobile application for browsing and managing products with real-time updates.
+
+🔹 Features:
+
+* User authentication
+* Product uploads with images
+* Location-based features
+
+🔹 Tech:
+Flutter • Node.js • MongoDB
+
+---
+
+🐾 Pet Care System
+
+A Spring Boot backend system for managing pet-related data with strong testing practices.
+
+🔹 Features:
+
+* REST APIs for pet management
+* Secure API with Spring Security
+* Unit and BDD testing
+
+🔹 Tech:
+Java • Spring Boot • JPA • Maven
+
+---
+
+🎮 Network Battleship Game
+
+A multiplayer game built using Java with TCP socket communication.
+
+🔹 Features:
+
+* Client-server architecture
+* Turn-based gameplay
+* Real-time communication
+
+🔹 Tech:
+Java • TCP Sockets • Multithreading
+
+---
+
+📫 Contact
+
+Email: [your-email@gmail.com](mailto:your-email@gmail.com)
+GitHub: https://github.com/ThaminduBandara
+LinkedIn: (add your link)
+
+---
+
+⭐ Open to internships and collaboration opportunities!
